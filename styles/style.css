@@ -116,7 +116,7 @@ body {
     display: flex;
     justify-content: center;
     background-color: var(--cor-terciaria);
-    padding: 24px;
+    padding: 1.5rem;
 }
 
 .rodape__texto {
@@ -146,5 +146,9 @@ body {
 
     .apresentacao__imagem {
         width: 90%;
+    }
+
+    .rodape__texto {
+        font-size: 1rem;
     }
 }
