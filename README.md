@@ -1,4 +1,6 @@
-# portfolio Hi, welcome to the project "My Portfolio"
+# portfolio 
+
+Hi, welcome to the project "My Portfolio"
 
 ![image](https://github.com/GilsonSouza20/portfolio/blob/main/assets/image-project.png)
 
