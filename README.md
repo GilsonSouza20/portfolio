@@ -1,6 +1,6 @@
 # portfolio Hi, welcome to the project "My Portfolio"
 
-![image]
+![image](https://github.com/GilsonSouza20/portfolio/blob/main/assets/image-project.png)
 
 ## Ferramentas utilizadas:
 
