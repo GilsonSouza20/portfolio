@@ -136,13 +136,16 @@ body {
     }
 
     .apresentacao {
-        margin: 3% 25%;
         flex-direction: column-reverse;
         align-items: center;
     }
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 2rem;
     }
 
     .apresentacao__imagem {
