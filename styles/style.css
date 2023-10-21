@@ -136,6 +136,7 @@ body {
     }
 
     .apresentacao {
+        margin: 3% 25%;
         flex-direction: column-reverse;
         align-items: center;
     }
