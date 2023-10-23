@@ -19,4 +19,3 @@ Hi, welcome to the project "My Portfolio"
 ### Linkedin: https://www.linkedin.com/in/gilson-souza-junior/
 
 ```
-:)
